@@ -13,8 +13,6 @@ Before companies can analyze workforce trends (layoffs by industry, country, or 
 
 **Consistent**
 
-**Deduplicated**
-
 **Properly formatted**
 
 **Ethically handled**
@@ -24,15 +22,15 @@ This project focuses on building that trustworthy foundation.
 ## Business Questions
 After cleaning, the dataset can reliably answer questions such as:
 
-**Which industries experienced the most layoffs?**
+- Which industries experienced the most layoffs?
 
-**Which countries were most impacted?**
+- Which countries were most impacted?
 
-**How did layoffs trend over time (monthly/yearly)?**
+- How did layoffs trend over time (monthly/yearly)?
 
-**Which companies had the largest single layoff events?**
+- Which companies had the largest single layoff events?
 
-**Are there patterns tied to market sectors (e.g., Crypto vs Tech vs Retail)?**
+- Are there patterns tied to market sectors (e.g., Crypto vs Tech vs Retail)?
 
 Without proper cleaning, these answers would be misleading due to duplicates, inconsistent labels, and missing values.
 
