@@ -75,12 +75,7 @@ Simplified dataset for cleaner downstream analysis
 
 ## Outcome
 
-The final cleaned table:
-Consistent industry labels
-Standardized countries
-Valid date formatting
-No duplicate rows
-Ready for analysis or dashboarding
+Cleaned data through SQL, both to show the capabilities of SQL and my proficiency.
 
 This makes the dataset reliable for SQL queries, reporting, and visualization tools like Power BI or Tableau.
 
