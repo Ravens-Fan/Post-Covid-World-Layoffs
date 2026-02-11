@@ -1,4 +1,4 @@
-# Post-Covid-World-Layoffs
+# Post-Covid World Layoffs
 
 ## Overview
 
