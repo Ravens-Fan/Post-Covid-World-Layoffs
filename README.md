@@ -1,13 +1,13 @@
 # Post-Covid-World-Layoffs
 
-Overview
+## Overview
 
 Real-world datasets are rarely analysis-ready. In this project, I cleaned and standardized a global layoffs dataset using MySQL to transform messy, inconsistent raw data into a reliable, analysis-ready table.
 
 The goal was to simulate a common business scenario:
 Prepare HR/financial workforce data so leadership can trust reporting and make informed decisions.
 
-🎯 Business Objective
+Business Objective
 
 Before companies can analyze workforce trends (layoffs by industry, country, or time), the underlying data must be:
 
@@ -23,8 +23,7 @@ Ethically handled
 
 This project focuses on building that trustworthy foundation.
 
-❓ Business Questions This Work Enables
-
+## Business Questions
 After cleaning, the dataset can reliably answer questions such as:
 
 Which industries experienced the most layoffs?
@@ -39,7 +38,7 @@ Are there patterns tied to market sectors (e.g., Crypto vs Tech vs Retail)?
 
 Without proper cleaning, these answers would be misleading due to duplicates, inconsistent labels, and missing values.
 
-🛠 Tools Used
+## Tools Used
 
 MySQL
 
@@ -47,7 +46,7 @@ SQL (CTEs, filtering, grouping, transformations)
 
 Data cleaning best practices
 
-🧹 Data Cleaning Process
+Data Cleaning Process
 1. Created a working copy
 
 Preserved the raw dataset for auditability and reproducibility
@@ -78,18 +77,18 @@ Left unknown values as NULL rather than fabricating data (ethical integrity)
 
 Simplified dataset for cleaner downstream analysis
 
-📈 Outcome
+## Outcome
 
 The final cleaned table:
-✅ Consistent industry labels
-✅ Standardized countries
-✅ Valid date formatting
-✅ No duplicate rows
-✅ Ready for analysis or dashboarding
+Consistent industry labels
+Standardized countries
+Valid date formatting
+No duplicate rows
+Ready for analysis or dashboarding
 
 This makes the dataset reliable for SQL queries, reporting, and visualization tools like Power BI or Tableau.
 
-💡 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 Data cleaning & wrangling
 
