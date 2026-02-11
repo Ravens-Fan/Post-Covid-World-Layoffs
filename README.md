@@ -2,24 +2,18 @@
 
 ## Overview
 
-Real-world datasets are rarely analysis-ready. In this project, I cleaned and standardized a global layoffs dataset using MySQL to transform messy, inconsistent raw data into a reliable, analysis-ready table.
-
-The goal was to simulate a common business scenario:
+Real-world datasets are rarely analysis-ready. In this project, I cleaned and standardized a global layoffs dataset using MySQL to transform messy, inconsistent raw data into a reliable, analysis-ready table. The goal was to simulate a common business scenario:
 Prepare HR/financial workforce data so leadership can trust reporting and make informed decisions.
 
-Business Objective
+## Business Objective
 
 Before companies can analyze workforce trends (layoffs by industry, country, or time), the underlying data must be:
 
-Accurate
-
-Consistent
-
-Deduplicated
-
-Properly formatted
-
-Ethically handled
+**Accurate**
+**Consistent**
+**Deduplicated**
+**Properly formatted**
+**Ethically handled**
 
 This project focuses on building that trustworthy foundation.
 
