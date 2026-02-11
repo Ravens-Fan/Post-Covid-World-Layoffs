@@ -75,9 +75,9 @@ Simplified dataset for cleaner downstream analysis
 
 ## Outcome
 
-Cleaned data through SQL, both to show the capabilities of SQL and my proficiency.
+The above business questions can now be answered cleanly.
 
-This makes the dataset reliable for SQL queries, reporting, and visualization tools like Power BI or Tableau.
+Cleaned data through SQL, both to show the capabilities of SQL and my proficiency. This makes the dataset reliable for SQL queries, reporting, and visualization tools like Power BI or Tableau.
 
 ## Key Skills Demonstrated
 
